@@ -1,0 +1,9 @@
+community_id,community_name,city,state,capacity,opening_year,occupancy_rate,occupied_units
+C001,Primus Harmony,Bengaluru,Karnataka,300,2023,0.82,246
+C002,Primus Serenity,Hyderabad,Telangana,250,2024,0.76,190
+C003,Primus Haven,Chennai,Tamil Nadu,275,2022,0.91,250
+C004,Primus Vista,Pune,Maharashtra,225,2024,0.68,153
+C005,Primus Gardens,Mumbai,Maharashtra,325,2023,0.87,283
+C006,Primus Harmony North,Delhi,Delhi,250,2025,0.63,158
+C007,Primus Meadows,Kochi,Kerala,200,2023,0.79,158
+C008,Primus Courtyard,Ahmedabad,Gujarat,225,2024,0.73,164
