@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/primus.db
+
+src/python src/
